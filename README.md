@@ -28,4 +28,6 @@ git clone https://github.com/sanskar74/Weather-App
 **:-**  CSS
 
 **:-**  JavaScript
+
+
 ![weather app pic](https://github.com/sanskar74/Weather-App/assets/117890001/bc7117ec-a100-45c7-a7d3-fed756169597)
