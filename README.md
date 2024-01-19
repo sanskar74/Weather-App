@@ -29,5 +29,5 @@ git clone https://github.com/sanskar74/Weather-App
 
 **:-**  JavaScript
 
+![image](https://github.com/sanskar74/Weather-App/assets/117890001/86f321f4-3dab-442e-b4ca-276f248da9b0)
 
-![weather app pic](https://github.com/sanskar74/Weather-App/assets/117890001/bc7117ec-a100-45c7-a7d3-fed756169597)
