@@ -30,4 +30,5 @@ git clone https://github.com/sanskar74/Weather-App
 **:-**  JavaScript
 
 ![image](https://github.com/sanskar74/Weather-App/assets/117890001/86f321f4-3dab-442e-b4ca-276f248da9b0)
+![image](https://github.com/sanskar74/Weather-App/assets/117890001/ff4e274f-2605-4c44-bbb2-5cf14b71abbc)
 
